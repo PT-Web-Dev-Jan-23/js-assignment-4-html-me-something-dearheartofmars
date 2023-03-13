@@ -1,1 +1,34 @@
 /* Write your CSS here! */
+img {
+    width: 25%;
+    height: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border:solid;
+    border-width:2px;
+    border-color: SteelBlue;
+    margin-bottom: 4px;
+}
+
+div {
+     margin-left: 20%;
+     margin-right: 20%;
+     margin-top: 3em;
+
+}
+h1,h2,p {
+    text-align: center;
+}
+
+body {
+    margin: 8px;
+    display: block;
+    background-color: #d7ebf2
+}
+
+#mainHeading {    color: maroon; }
+
+.funParagraph { color: darkgreen;
+}
+
